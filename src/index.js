@@ -1,4 +1,5 @@
 import 'phaser';
+import GameScene from './scenes/GameScene';
 
 var config = {
     type: Phaser.AUTO,
