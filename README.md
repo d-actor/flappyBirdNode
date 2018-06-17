@@ -1,4 +1,4 @@
-Flappy bird cline using phaser 3 and node js
+Flappy bird clone using phaser 3 and node js
 
 ### Requirements
 
